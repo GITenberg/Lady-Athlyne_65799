@@ -1,0 +1,24 @@
+_repo: Lady-Athlyne_65799
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stoker, Bram
+    alias: Stoker, Abraham
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '190'
+    url: http://www.gutenberg.org/2009/agents/190
+    wikipedia: https://en.wikipedia.org/wiki/Bram_Stoker
+description: ''
+gutenberg_issued: '2021-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lady Athlyne
+url: http://www.gutenberg.org/ebooks/65799
